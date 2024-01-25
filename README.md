@@ -15,7 +15,7 @@ npm install
   npm start
 ```
 ```bash
-  npm cypress open
+  npx cypress open
 ```
 
 **The zeroth test case** checks whether you've successfully forked the repository and are able to run the react app after installing all the dependencies.
